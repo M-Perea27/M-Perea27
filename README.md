@@ -5,5 +5,5 @@
 - Learning <span><strong>Laravel, React, React Native and NodeJs</strong></span></br>
 - Getting used to work with <span><strong>AWS and Azure</strong></span></br></p>
 
-- Contact: Mig.Perea27@gmail.com 
+<p>- Contact: <span><strong>Mig.Perea27@gmail.com</strong></span></p>
 
